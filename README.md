@@ -1,1 +1,1 @@
-# JavaScript-Aprendizado
+# JavaScript-Treinando
